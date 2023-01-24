@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nutcache-challenge-LeopoldoReginato-backend.props" />
+</Project>
